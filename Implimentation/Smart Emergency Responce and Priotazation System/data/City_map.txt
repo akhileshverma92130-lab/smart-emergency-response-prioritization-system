@@ -1,0 +1,11 @@
+# City Road Network Data
+# Format: src_id src_name src_lat src_lon dest_id dest_name dest_lat dest_lon distance_km time_min
+
+0 "Connaught Place" 28.6139 77.2090 1 "Nehru Place" 28.5562 77.1000 12.5 25
+0 "Connaught Place" 28.6139 77.2090 2 "AIIMS" 28.5672 77.2100 8.2 18
+0 "Connaught Place" 28.6139 77.2090 3 "India Gate" 28.6129 77.2295 3.5 10
+1 "Nehru Place" 28.5562 77.1000 2 "AIIMS" 28.5672 77.2100 6.8 15
+2 "AIIMS" 28.5672 77.2100 3 "India Gate" 28.6129 77.2295 5.2 12
+3 "India Gate" 28.6129 77.2295 4 "Karol Bagh" 28.6519 77.1909 4.8 12
+4 "Karol Bagh" 28.6519 77.1909 5 "Dwarka" 28.5921 77.0460 18.5 35
+1 "Nehru Place" 28.5562 77.1000 5 "Dwarka" 28.5921 77.0460 22.0 40

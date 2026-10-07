@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+
+# Build output
+out/
+target/
+
+# Java compiled files
+*.class
+
+# Reports - keep local, do not upload
+*.pdf
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db

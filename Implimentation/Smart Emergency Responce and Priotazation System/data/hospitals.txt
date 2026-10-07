@@ -1,0 +1,8 @@
+# Hospital Data
+# Format: id name lat lon total_beds specialties(comma) has_icu has_trauma
+
+1 "City General Hospital" 28.6139 77.2090 200 "Cardiology,Trauma,General" true true
+2 "Apollo Hospital" 28.5562 77.1000 150 "Cardiology,Neurology,Oncology" true false
+3 "AIIMS Trauma Center" 28.5672 77.2100 300 "Trauma,Burn,Emergency" true true
+4 "Fortis Hospital" 28.5500 77.1050 180 "Cardiology,Orthopedics,General" true false
+5 "Max Hospital" 28.6500 77.1800 120 "General,Emergency" false false

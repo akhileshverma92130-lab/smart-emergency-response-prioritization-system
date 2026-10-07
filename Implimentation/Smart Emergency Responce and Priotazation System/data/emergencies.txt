@@ -1,0 +1,8 @@
+# Sample Emergency Data
+# Format: id lat lon severity type description
+
+1 28.6200 77.2150 1 "Cardiac" "Patient unconscious, chest pain"
+2 28.5600 77.1050 2 "Accident" "Two vehicle collision, 3 injured"
+3 28.6500 77.1950 3 "Trauma" "Fall from height, suspected fracture"
+4 28.5900 77.0500 1 "Burn" "Chemical burn, 40% body surface"
+5 28.6100 77.2300 4 "General" "High fever, dehydration"
